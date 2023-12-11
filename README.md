@@ -1,4 +1,4 @@
-# Projeto Individual EBAC - Portifolio básico Pessoal
+# Projeto Individual - Portifolio básico Pessoal
 
 
 Este repositório contém o projeto desenvolvido como parte da entrega final do modulo HTML E CSS do curso da EBAC (Escola Britânica de Artes Criativas), 
